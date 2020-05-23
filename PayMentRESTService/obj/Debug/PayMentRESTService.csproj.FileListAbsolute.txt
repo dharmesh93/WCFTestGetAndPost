@@ -1,0 +1,31 @@
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojAssemblyReference.cache
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csproj.CoreCompileInputs.cache
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.Helpers.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.Razor.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.WebPages.Deployment.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.WebPages.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.WebPages.Razor.dll
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.Helpers.xml
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.Razor.xml
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.WebPages.xml
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.WebPages.Deployment.xml
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\System.Web.WebPages.Razor.xml
+D:\Code\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csproj.CopyComplete
